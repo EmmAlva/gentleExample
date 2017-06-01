@@ -1,0 +1,24 @@
+{
+  "name": "gentle-tdd",
+  "version": "1.0.0",
+  "description": "unit test, ex tdd",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmmAlva/gentleExample.git"
+  },
+  "keywords": [
+    "unit",
+    "test",
+    "example"
+  ],
+  "author": "EmmAlva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EmmAlva/gentleExample/issues"
+  },
+  "homepage": "https://github.com/EmmAlva/gentleExample#readme"
+}
